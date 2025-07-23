@@ -43,9 +43,6 @@ Implemented a custom function to:
 - Ensure depot is both start and end point
 - Validate no vehicle exceeds capacity
 
-## 📊 Visualization
-- Route maps and load utilization charts provided in `/outputs/plots`
-
 ## 📦 Requirements
 ```bash
 pip install -r requirements.txt
